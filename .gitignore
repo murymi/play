@@ -1,3 +1,9 @@
 **.bin
 **.o
 **image
+**.json
+**.html
+**.htm
+**zig-out
+**zig-cache
+yt.js
